@@ -38,13 +38,13 @@ The project also demonstrated the limitations of pretrained object detection mod
 
 [View the sHū addi Smart Inventory Counter](https://github.com/ericjonsmithii-arch/SHU-Addi-Smart-Inventory-Counter)
 
-### Object Detection and Image Segmentation Lab
+### [Object Detection and Image Segmentation Lab](./ComputerVision-ITAI1378/Object-Detection-and-Segmentation)
 
 A Google Colab lab using YOLO11 and SAM 2 to compare object detection with instance segmentation. The project examined bounding boxes, confidence scores, masks, Intersection over Union, precision, recall, and mean Average Precision.
 
 The lab also demonstrated how a specialist detector such as YOLO11 can work with a foundation segmentation model such as SAM 2.
 
-### Chihuahua or Muffin CNN
+### [Chihuahua or Muffin CNN](./ComputerVision-ITAI1378/Chihuahua-or-Muffin-CNN)
 
 A convolutional neural network project that classified images as either Chihuahuas or muffins. The project demonstrated convolutional layers, ReLU activation, max pooling, dropout, fully connected layers, model training, and image classification.
 
